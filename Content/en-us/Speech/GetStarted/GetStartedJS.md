@@ -1,8 +1,8 @@
 <!-- 
-NavPath: Bing Speech API/Get Started with Speech API
+NavPath: Bing Speech API/Speech Recognition/REST API
 LinkLabel: Get started in JavaScript
 Url: Speech-api/documentation/GetStarted/GetStartedJS
-Weight: 100
+Weight: 80
 -->
 
 #Get Started with Bing Speech API in JavaScript
@@ -11,7 +11,6 @@ Develop a basic JavaScript application that uses Bing Speech Recognition API to 
 
 The Speech Recognition web example demonstrates the following features using a wav file or external microphone input:
  * Short-form recognition
- * Long-form dictation
  * Recognition with intent
 To use Speech.JS, simply host Speech.1.0.0.js on your website. A 'minified' version of Speech.JS is also available Speech.1.0.0.min.js.
 
@@ -27,7 +26,7 @@ To use Speech.JS, simply host Speech.1.0.0.js on your website. A 'minified' vers
 The below example has been developed for the .NET Framework using [Visual Studio 2015, Community Edition](https://www.visualstudio.com/products/visual-studio-community-vs). 
 
 * #### Get the client library and example
-You may download the Speech API client library and example through  [GitHub](https://github.com/Microsoft/ProjectOxford-ClientSDK/tree/master/Speech/Speech.JS). The downloaded folder needs to be hosted locally on your machine to follow the below scenario.
+You may download the Speech API client library and example through  [GitHub](https://github.com/Microsoft/Cognitive-Speech-STT-JavaScript). The downloaded folder needs to be hosted locally on your machine to follow the below scenario.
 
 * #### Subscribe to Speech API and get a free trial subscription key 
 Before creating the example, you must subscribe to Speech API which is part of Microsoft Cognitive Services (previously Project Oxford). For subscription and key management details, see [Subscriptions](https://www.microsoft.com/cognitive-services/en-us/sign-up). Both the primary and secondary key can be used in this tutorial. 
@@ -62,6 +61,6 @@ For questions, feedback, or suggestions about Microsoft Cognitive Services, feel
 
 ######License
 
-All Microsoft Cognitive Services SDKs and samples are licensed with the MIT License. For more details, see [LICENSE](https://github.com/bhansen3/ProjectOxford-ClientSDK/blob/master/LICENSE.md).
+All Microsoft Cognitive Services SDKs and samples are licensed with the MIT License. For more details, see [LICENSE](https://github.com/Microsoft/Cognitive-Speech-STT-JavaScript/blob/master/LICENSE.md).
 
  
